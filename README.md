@@ -47,7 +47,7 @@ We’re a small team, where everyone contributes to the frontend, backend, nativ
 - Develop front-end and mobile applications and experiences
 - Develop prototypes/wireframes/proofs of concept
 - Scope and prioritize features, participate in roadmap planning
-- (If you're into that sore of thing) Present our work across to our team, clients, company and at external conferences
+- (If you're into that sort of thing) Present our work across to our team, clients, company and at external conferences
 
 ## Contact us
 anNoZWVsZXlAZWJheS5jb20=
